@@ -1,0 +1,22 @@
+h1{
+	text-align: center; font-family: 'trebuchet ms' , geneva , sans-serif; 
+font-size: 36.0pt; color: #236fa1;
+}
+
+p{
+	font-family: tahoma , arial , helvetica , sans-serif; font-size: 14.0pt; color: #000000;
+}
+
+.onderlijnd{
+	text-decoration: underline;
+}
+
+.mark{
+	font-family: georgia , palatino , serif; font-size: 14.0pt; color: #000000;
+	background-color: #fbeeb8;
+	}
+
+.box{
+	width: 100%; background-color: #add8e6; border: 3px solid blue; font-family: 'book antiqua', palatino, serif; font-size: 
+14.0pt; padding: 10px; box-sizing: border-box;
+}
